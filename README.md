@@ -1,1 +1,0 @@
-# gadget-shop-react-app
